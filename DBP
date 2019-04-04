@@ -1,0 +1,51 @@
+PLATAFORMA
+Soporte H/S -> Desarrollar un Producto
+Plataforma de software:
+Conjunto de "activos" -> Herramientas -> SDK 
+                                      -> API
+                                      -> IDE
+que te permiten desarrollar algun producto -> APP
+
+SDK -> Sofware Develoment Kit
+Bibliotecas basicas para poder desarrollar sobre esa
+plataforma
+Ejemplo:
+- Android SDK
+
+API -> Interfaz de Programacion de Aplicaciones
+Monstruo complejo de manera simple
+Permite que dos aplicaciones se comuniquen
+Ejemplo:
+- Google Maps
+
+IDE -> Integrate Develoment Enviroment
+- Visual Studio
+- Eclipse
+- Android Studio
+
+Tipos:  
+        Hardware - Software
+
+Ejemplos de Hardware:
+- PC
+- Laptop
+- Consola
+- Arduino / Raspberry
+
+Ejemplos de Softward:
+- Sistemas operativos
+- Software grande
+  - Frameworks
+  - SDK
+- Servidores web
+  
+Http -> SERVIDOR DE APLICACIONES WEB
+Recibir llamadas de aplicaciones http y responder
+
+APLICACION
+Es el producto que se desarrolla sobre una plataforma
+
+
+
+
+
