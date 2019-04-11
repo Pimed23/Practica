@@ -8,6 +8,7 @@ void f ( const int a = 5) {
 int a = 123;
 
 int main () {
+    
     f( 1 ) ;
     f( a );
     int b = 3;
